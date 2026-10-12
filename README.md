@@ -38,3 +38,9 @@ An autonomous edge-to-cloud agricultural telemetry and closed-loop actuation pla
   | • Real-Time Telemetry Storage |
   | • Advisory & Threshold Alerts |
   +-------------------------------+
+```
+## Hardware Validation & Live Demonstration
+
+![Krishi Mitra Hardware Prototype and Ultrasonic Radar Sweep](hardware_prototype_live_demo.jpg.jpg)
+
+*Real-time hardware demonstration featuring ATmega328P MCU, SG90 servo-actuated ultrasonic sensing sweep, and synchronized PC radar telemetry interface.*
