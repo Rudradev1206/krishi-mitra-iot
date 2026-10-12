@@ -38,3 +38,4 @@ An autonomous edge-to-cloud agricultural telemetry and closed-loop actuation pla
   | • Real-Time Telemetry Storage |
   | • Advisory & Threshold Alerts |
   +-------------------------------+
+<img width="860" height="442" alt="hardware_prototype_live_demo jpg" src="https://github.com/user-attachments/assets/64258777-a716-4097-9426-4535a11a913c" />
